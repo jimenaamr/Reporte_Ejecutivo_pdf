@@ -34,8 +34,8 @@ En este repositorio se encuentran los archivos necesarios para hacer un pdf con 
 
 ## Modo de Ejecución
 
-1- Instalar el requirements.txt
+1. Instalar el requirements.txt
 
-2- Ejecutar el archivo pizzas_año.py para obtener el csv pizzas_pedidas_2016.csv, grafica_pizzas_año.jpeg y grafica_dinero.jpeg
+2. Ejecutar el archivo pizzas_año.py para obtener el csv pizzas_pedidas_2016.csv, grafica_pizzas_año.jpeg y grafica_dinero.jpeg
 
-3- Ejecutar el archivo crear_pdf.py para obetener el reporte ejecutivo en formato pdf.
+3. Ejecutar el archivo crear_pdf.py para obetener el reporte ejecutivo en formato pdf.
